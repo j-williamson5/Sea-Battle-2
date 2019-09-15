@@ -1,6 +1,8 @@
 # Sea-Battle-2
 This is an open source battleship clone made for CS232 (Computer Programming 2) in Fall 2017. 
 It is a wonderful look at model view controller for beginners.
+This is a multiplayer game meant to be played on the same comptuer.
+It can also be used as a great base to teach networking with Java. Getting this to run multiplayer on multiple computers would be a fun challenge for more advanced programming students!
 
 
 ## Getting Started
